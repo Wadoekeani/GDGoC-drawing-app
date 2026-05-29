@@ -1100,4 +1100,4 @@ window.addEventListener(
 * Line
 * 多人白板
 
-背後最核心的概念。
+背後最重要，最核心的概念 0.0
