@@ -231,12 +231,7 @@ function drawLine(
 }
 ```
 
-## Step 5 執行前端程式碼
-
-在 Replit 按下 `run` 按鈕執行程式碼。在預覽頁面看看會發生什麼事？
-
-
-## Step 6 美化筆刷
+## Step 5 美化筆刷
 
 修改 drawLine：
 
@@ -257,7 +252,7 @@ function drawLine(
   ...
 }
 ```
-## Step 7 建立 WebSocket Server
+## Step 6 建立 WebSocket Server
 
 建立：
 
@@ -333,19 +328,16 @@ def connect(sid, environ):
 當有使用者連線時觸發。
 
 
-### 啟動 Server
 
-按下 Replit 的：
+## Step 7 執行前端程式碼
 
-```text
-Run
+在 Replit Shell 輸入：
+
+```bash
+python server.py
 ```
 
-如果成功應該會看到：
-
-```text
-server running
-```
+看看在預覽頁面看看會發生什麼事？
 
 ---
 
